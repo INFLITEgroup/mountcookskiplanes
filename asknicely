@@ -3,8 +3,7 @@
     
     
     <img src="https://fh-sites.imgix.net/sites/2494/2020/11/26140057/MCSP-Logo.jpg"
-     alt="The head and torso of a dinosaur skeleton;
-          it has a large head with long sharp teeth"
+     alt="MCSP Logo"
      width="300"
      height="70">
     
@@ -27,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
             alignment:      "center", // Optional - "left", "center" or "right"
             domain_key:     "inflite", // Required
             template_name:   "Mt Cook", // Required - the survey template you wish to use
-            name:           "Levi Minnell", // Optional - but nice to have
+            name:           "Name", // Optional - but nice to have
             email:          "digital@inflite.nz", // Required - if no email, this should be a unique id for this customer in an email-like format. But a real email address is more powerful for follow-ups
             email_hash:     "d45a8610fe6d6d14d4cef726048210f66f66dffbedeba63de2ee5e071f82f8c0",  // Required - *security hash of this customers email - see below
             created:        1606350282, // Highly desired - unix timestamp when this customer joined your service.
